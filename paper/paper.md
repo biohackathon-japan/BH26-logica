@@ -12,13 +12,19 @@ tags:
 authors:
   - name: 'Claude Nanjo'
     affiliation: 1
-  - name: 'TODO: Additional author'
+  - name: 'Toyofumi Fujiwara'
     affiliation: 2
+  - name: 'Chang Sun'
+    affiliation: 3
+  - name: 'Michel Dumontier'
+    affiliation: 3
 affiliations:
   - name: 'University of Utah'
     index: 1
-  - name: 'TODO: Additional affiliation'
+  - name: 'National Institute of Genetics'
     index: 2
+  - name: 'Maastricht University'
+    index: 3
 date: 18 September 2026
 cito-bibliography: paper.bib
 event: BH26JP
