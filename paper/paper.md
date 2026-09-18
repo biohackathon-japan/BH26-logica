@@ -182,7 +182,7 @@ Observation?
   &code=http://loinc.org|2160-0
   &date=ge2026-09-11T12:00:00Z
   &date=le2026-09-14T12:00:00Z
-  &_count=200
+  &_sort=date
 ```
 
 The query is retained and exposed in the interface, allowing a reviewer to inspect exactly what was sent rather than accepting a returned record count on trust.
