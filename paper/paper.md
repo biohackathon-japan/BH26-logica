@@ -18,6 +18,8 @@ authors:
     affiliation: 3
   - name: 'Michel Dumontier'
     affiliation: 3
+  - name: 'Núria Queralt Rosinach'
+    affiliation: 4
 affiliations:
   - name: 'University of Utah'
     index: 1
@@ -25,6 +27,8 @@ affiliations:
     index: 2
   - name: 'Maastricht University'
     index: 3
+  - name: 'Leiden University Medical Center'
+    index: 4
 date: 18 September 2026
 cito-bibliography: paper.bib
 event: BH26JP
